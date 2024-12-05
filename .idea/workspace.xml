@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d8b8aa39-8aa1-4d42-bcad-d18ae386f7f0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/TaskManagerBot.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/app/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/app/handlers/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/app/handlers/options_handlers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/app/handlers/start_handlers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/app/keyboard/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/app/options/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/app/options/add_task_option_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/app/options/edit_task_option_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/app/options/remove_task_option_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/app/options/watch_task_option_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/app/states/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/app/states/states.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/domain/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/domain/entities/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/domain/entities/base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/domain/entities/task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/domain/entities/user.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/infra/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/infra/filters/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/infra/filters/task_filter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/infra/repositories/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/infra/repositories/task_manager_repository/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/infra/repositories/task_manager_repository/base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/infra/repositories/task_manager_repository/task_manager_repository.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/infra/repositories/user_repository/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/infra/repositories/user_repository/base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/infra/repositories/user_repository/user_repository.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/logic/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/logic/commands/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/logic/commands/base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/logic/commands/task_manager_commands.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/logic/commands/user_commands.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/logic/container.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/logic/mediator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/settings/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/settings/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2phDoUv6XlD45Bcq7Nwnfq6PKrI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "Python.main.executor": "Run",
+    "Python.watch_task_option_1.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/yulichka_portfolio/challenges_for_work/CLI_Task_Manager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\yulichka_portfolio\tg_bots\TaskManagerBot" />
+      <recent name="C:\yulichka_portfolio\tg_bots\TaskManagerBot\core" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-975db3bf15a3-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.18034.82" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d8b8aa39-8aa1-4d42-bcad-d18ae386f7f0" name="Changes" comment="" />
+      <created>1733209589225</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733209589225</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName=".env" />
+  </component>
+</project>
